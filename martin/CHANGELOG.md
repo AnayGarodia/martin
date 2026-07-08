@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.12.1](https://github.com/maplibre/martin/compare/martin-v1.12.0...martin-v1.12.1) - 2026-07-08
+
+### Other
+
+- split file sources into MBTiles and PMTiles subpages ([#2978](https://github.com/maplibre/martin/pull/2978))
+
 ## [1.12.0](https://github.com/maplibre/martin/compare/martin-v1.11.0...martin-v1.12.0) - 2026-07-07
 
 ### GeoJSON tile source
